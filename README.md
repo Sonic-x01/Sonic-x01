@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 - 🔐 Passionate about **Cybersecurity** & **Reverse Engineering** & **Penetration Testing** & **Artificial Intelligence**
-- 🏁 Active **CTF Player** — Reverse Engineering, Crypto, Forensics, Binary Exploitation, Osint
+- 🏁 Active **CTF Player** — Reverse Engineering, Crypto, Binary Exploitation, Osint
 - 🌱 Currently learning **Reverse Engineering**
 - 🎯 Goal: Become a professional **Malware Analyst & Reverse Engineer**
 - 📍 Egypt
