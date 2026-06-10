@@ -60,7 +60,7 @@
 
 <div align="center">
 
-*"0x00 is where it all begins."* 🔇
+*"0x00 is where it all begins."* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sonic-x01&color=6c63ff&style=for-the-badge)
 
