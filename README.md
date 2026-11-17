@@ -4,6 +4,7 @@
 
 <h1 align="center">Hey, I'm Fares Boghdady 👋</h1>
 
+
 <p align="center">
   <a href="https://github.com/Sonic-x01">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=Malware+Analyst+%26+Reverse+Engineer;Penetration+Tester+%7C+CTF+Player+(0xSonic);Mathematics+%26+AI+Researcher;%F0%9F%8E%93+Ranked+1st+%E2%80%94+Mansoura+University+2025%2F2026;%F0%9F%A5%88+2nd+Place+%E2%80%94+NileSec+CTF+2026;%F0%9F%9B%A1%EF%B8%8F+TryHackMe+Top+1%25+Globally+%E2%80%94+220%2B+Day+Streak;%F0%9F%92%BC+Top+Performer+%E2%80%94+Tips+Hindawi+Pentest+Internship" alt="Malware Analyst & Reverse Engineer · Penetration Tester · CTF Player · Mathematics & AI Researcher"/>
