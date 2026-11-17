@@ -33,8 +33,8 @@ Statistics & Computer Science student at **Mansoura University**, ranked **1st i
 
 | Role | Organization | Period |
 |---|---|:-:|
-| **Penetration Testing Intern** | Tips Hindawi | 2026 · 8 weeks |
-| **Penetration Testing & Application Security Trainee** | NTI Cybersecurity Academy | 2026 |
+| **Penetration Testing Intern** | Tips Hindawi | 2026 · 2 months |
+| **Penetration Testing & Application Security Trainee** | NTI Cybersecurity Academy | 2026 · 1 month |
 | **B.Sc. Statistics & Computer Science** | Mansoura University | 2025 – 2029 |
 
 ---
