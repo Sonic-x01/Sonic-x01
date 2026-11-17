@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="1944" height="809" alt="banner" src="https://github.com/user-attachments/assets/2ff76d94-323a-4a48-bdee-feeab8056089" />
-
+  <img width="100%" alt="0xSonic banner" src="https://github.com/user-attachments/assets/2ff76d94-323a-4a48-bdee-feeab8056089" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Sonic-x01">
@@ -121,7 +121,6 @@ Statistics & Computer Science student at **Mansoura University**, ranked **1st i
 
 </div>
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -130,6 +129,7 @@ Statistics & Computer Science student at **Mansoura University**, ranked **1st i
 |---|---|---|
 | 🔎 [**recon_aggregator**](https://github.com/Sonic-x01/recon_aggregator) | Multi-stage reconnaissance tool: subdomain discovery, DNS validation, HTTP/HTTPS liveness checks and CSV/JSON export. NTI graduation project. | Python |
 | 🧬 [**C-Mastery**](https://github.com/Sonic-x01/C-Mastery) | Interactive C course designed around reverse engineering and malware analysis. | HTML · JS · C |
+| 🐍 [**python-mastery**](https://github.com/Sonic-x01/python-mastery) | Interactive Python course that teaches the fundamentals step by step, in the browser. | HTML · JS · Python |
 | 🗺️ [**cyber-security-roadmap**](https://github.com/Sonic-x01/cyber-security-roadmap) | Structured 2026 roadmap covering red and blue team paths, tooling, reverse engineering and certifications. | HTML · CSS |
 | 📐 [**Quartic_orbit_atlas**](https://github.com/Sonic-x01/Quartic_orbit_atlas) | Research tooling for fixed points and periodic cycles of quadratic and quartic maps. | Python · HTML |
 
@@ -144,8 +144,6 @@ Open to **internships**, **research collaborations** and **CTF teams** in malwar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-boghdady-6a4b5037a)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FaresBoghdady5)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonic-x01)
-
-
 
 </div>
 
