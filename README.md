@@ -2,6 +2,7 @@
   <img width="100%" alt="0xSonic banner" src="https://github.com/user-attachments/assets/2ff76d94-323a-4a48-bdee-feeab8056089" />
 </p>
 
+<h1 align="center">Hey, I'm Fares Boghdady 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Sonic-x01">
