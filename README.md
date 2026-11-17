@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Fares Boghdady (0xSonic): Malware Analyst & Reverse Engineer, Penetration Tester, CTF Player, Mathematics & AI Researcher" width="100%"/>
+  <img width="1944" height="809" alt="banner" src="https://github.com/user-attachments/assets/2ff76d94-323a-4a48-bdee-feeab8056089" />
+
 </p>
 
 <p align="center">
